@@ -1,2 +1,2 @@
-# Dominator
-Dominator: A comprehensive collection of my engineering projects, achievements, and technical skills.
+# Dossier
+Dossier: A comprehensive collection of my engineering projects, achievements, and technical skills.
